@@ -1,0 +1,67 @@
+.title div{
+    width: 100%;
+}
+.container {
+    display: flex;
+}
+.left {
+    width: 35%;
+}
+.right {
+    width: 65%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ignore below here */
+.title {
+    font-family: 'Lora', serif;
+    text-align: center;
+    background-color: rgb(253, 213, 113);
+    padding: 1px;
+    font-size: 1.1em;
+}
+.left {
+    background-color: lightgray;
+}
+.left ul {
+    margin-right: 25px;
+}
+.right p {
+    padding: 15px;
+}
+.image  {
+    text-align: center;
+    margin-top: 20px;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+img {
+    max-height: 400px;
+}
